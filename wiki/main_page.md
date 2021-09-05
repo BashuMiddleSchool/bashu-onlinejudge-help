@@ -2,7 +2,8 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# 欢迎来到Bashu OnlineJudge帮助
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+
+在这里，我们会把有关Bashu OnlineJudge的内容进行详细解释。
 
